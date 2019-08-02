@@ -1,0 +1,13 @@
+{
+    "MainPort": "80",
+    "Rules": [
+        {
+            "Domain":"bt.onlinecode.cn",
+            "Address":"123.207.241.119:88"
+        },
+        {
+            "Domain":"test.onlinecode.cn",
+            "Address":"123.207.241.119"
+        }
+    ]
+}
